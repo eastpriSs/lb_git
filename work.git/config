@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = C:/Users/eastpris/Desktop/lb1/Самохвалов_Даниил_ПИ_32/githowto/repositories/work
